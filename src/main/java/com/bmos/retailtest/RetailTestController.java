@@ -1,14 +1,17 @@
 package com.bmos.retailtest;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 public class RetailTestController {
 
-    @RequestMapping("/api/retail")
+    @GetMapping("/api/retail")
+    @ResponseBody
     public String index(@RequestParam String isGrocery) {
-        return "This is the retail store: " + isGrocery;
+        if (isGrocery.equals("yes")) {
+            return "it is grocery";
+        }
+
+        return "not grocery";
     }
 }
