@@ -1,4 +1,4 @@
-package com.bmos.retailtest;
+package com.bmos.retailtest.api;
 
 import org.springframework.web.bind.annotation.*;
 
