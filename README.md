@@ -16,4 +16,4 @@
   * ![GitHub Logo](/test-file.png)
 
 * Use the icon on the left of the class name to run the tests 
-  * ![GitHub Logo](/run-file.png)
+  * ![GitHub Logo](/run-detail.png)
