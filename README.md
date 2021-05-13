@@ -16,4 +16,8 @@
   * ![GitHub Logo](/test-file.png)
 
 * Use the icon on the left of the class name to run the tests 
-  * ![GitHub Logo](/run-detail.png)
+  * ![GitHub Logo](/run-test-options.png)
+
+  * To run tests with coverage, choose option 3 on the popupmenu
+
+  * After running with coverage, a report screen will appear on the left pane of the editor
