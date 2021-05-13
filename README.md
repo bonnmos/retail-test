@@ -1,5 +1,7 @@
 # retail-test
 
+Click 
+
 #### HOW TO SETUP AND RUN THE CODE
 
 * Clone the repository at github.com/bonnmos/retail-test
