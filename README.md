@@ -1,6 +1,6 @@
 # retail-test
 
-Click 
+Click [here](https://drive.google.com/file/d/181UJw_PJ_Nb4Yuo8wlVmIxH0g-itlg94/view?usp=sharing) to view the class diagram.
 
 #### HOW TO SETUP AND RUN THE CODE
 
