@@ -25,3 +25,13 @@ Click [here](https://drive.google.com/file/d/181UJw_PJ_Nb4Yuo8wlVmIxH0g-itlg94/v
   * After running with coverage, a report screen will appear on the left pane of the editor
   
   * ![GitHub Logo](/coverage-report.png)
+
+#### SAMPLE REQUEST
+
+![GitHub Logo](/request.png)
+
+#### SAMPLE RESPONSE
+
+![GitHub Logo](/response.png)
+
+
