@@ -21,3 +21,5 @@
   * To run tests with coverage, choose option 3 on the popupmenu
 
   * After running with coverage, a report screen will appear on the left pane of the editor
+  
+  * ![GitHub Logo](/coverage-report.png)
