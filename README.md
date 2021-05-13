@@ -11,6 +11,9 @@
 
 #### RUNNING TESTS
 
-* Use the tool provided by IntelliJ IDEA to run tests
+* To run the tests navigate to the test class
 
- * ![GitHub Logo](/run-retail.png)
+  * ![GitHub Logo](/test-file.png)
+
+* Use the icon on the left of the class name to run the tests 
+  * ![GitHub Logo](/run-file.png)
